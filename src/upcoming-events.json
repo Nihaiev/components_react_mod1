@@ -13,7 +13,7 @@
         "name":"The art of spying",
         "location": "Corvus, Jangala",
         "speaker": "Repeta",
-        "type":"free",
+        "type":"paid",
         "time":{
             "start":"2022-02-17T14:30:00",
             "end":"2022-02-17T16:30:00"
@@ -23,7 +23,7 @@
         "name":"A smugglers tale",
         "location": "Corvus, Jangala",
         "speaker": "Repeta",
-        "type":"free",
+        "type":"vip",
         "time":{
             "start":"2022-02-17T14:30:00",
             "end":"2022-02-17T16:30:00"
@@ -43,7 +43,7 @@
         "name":"Inside the Ludd's Hammer",
         "location": "Corvus, Jangala",
         "speaker": "Repeta",
-        "type":"free",
+        "type":"paid",
         "time":{
             "start":"2022-02-17T14:30:00",
             "end":"2022-02-17T16:30:00"
@@ -53,7 +53,7 @@
         "name":"Beyond the core worlds",
         "location": "Corvus, Jangala",
         "speaker": "Repeta",
-        "type":"free",
+        "type":"vip",
         "time":{
             "start":"2022-02-17T14:30:00",
             "end":"2022-02-17T16:30:00"
@@ -63,7 +63,7 @@
         "name":"Mining for profit",
         "location": "Corvus, Jangala",
         "speaker": "Repeta",
-        "type":"free",
+        "type":"paid",
         "time":{
             "start":"2022-02-17T14:30:00",
             "end":"2022-02-17T16:30:00"
@@ -73,7 +73,7 @@
         "name":"Deep space horrors",
         "location": "Corvus, Jangala",
         "speaker": "Repeta",
-        "type":"free",
+        "type":"vip",
         "time":{
             "start":"2022-02-17T14:30:00",
             "end":"2022-02-17T16:30:00"

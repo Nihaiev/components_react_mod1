@@ -26,7 +26,8 @@ export const Event = ({ name, location, speaker, type, start, end }) => {
       <p className={css.info}>
         <FaClock className={css.icon} size={16}/>
         {duration}
-      </p>
+          </p>
+          <span className={`${css.chip} ${css[type]}`}> { type}</span>
     </div>
   );
 };
