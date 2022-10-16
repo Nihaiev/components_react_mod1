@@ -8,5 +8,5 @@ export const theme = {
     primaryText: "#212121",
     secondsryText: "#757575",
   },
-  spacing: 8,
+  spacing: (value) => `${4 * value}px`,
 };
