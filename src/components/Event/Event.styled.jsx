@@ -3,7 +3,7 @@ import styled from '@emotion/styled'
 export const Card = styled.div`
     position: relative;
     border:${props =>`2px dashed ${props.theme.colors.black}`} ;
-    padding: 8px;
+    padding: ${props =>props.theme.spacing}px;
     border-radius: 4px;
 
 `;
@@ -66,7 +66,7 @@ export const Chip = styled.span`
         case 'vip':
             return theme.colors.red;
         default:
-            return 'var(--color-black)';
+            return theme.colors.black;
     }
     }};
 `;
